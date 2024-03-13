@@ -24,8 +24,8 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.bg {
+  background-color: black;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+.hello{
+  color: red;
+  background-color: black;
+}
+.bg-light{
+  color: red;
+}
+.btn btn-primary{
+  align-items: center;
+}
+.container{
+  align-items: center;
 }
